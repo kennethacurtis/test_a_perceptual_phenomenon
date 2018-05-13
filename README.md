@@ -29,3 +29,4 @@ Furthermore, this investigation supports the **Selective Attention Theory** in w
 * <a href='https://www.verywellmind.com/what-is-the-stroop-effect-2795832'>The Stroop Effect: Naming the Color but Not the Word</a>
 * <a href='https://en.wikipedia.org/wiki/Stroop_effect'>Wikipedia: Stroop Effect</a>
 * <a href='http://www2.psychology.uiowa.edu/faculty/mordkoff/GradStats/part%201/I.07%20normal.pdf'>The Assumption(s) of Normality</a>
+* <a href='https://d2l.deakin.edu.au/d2l/eP/presentations/presentation_preview_popup.d2l?presId=67655'>The Stroop Effect - Mind Games or an Illusion?</a>
