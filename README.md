@@ -1,5 +1,7 @@
 # Analyzing the Stroop Effect
 
+To view the project, <a href='https://kennethacurtis.github.io/test_a_perceptual_phenomenon/'>click here</a>
+
 The <a href='https://en.wikipedia.org/wiki/Stroop_effect'>**Stroop Effect**</a> is a test that demonstrates the difference in reaction times of a task. In the Stroop task, you are presented with a list of words. Each word displayed has a color. The task of the participant is to say out loud the color of the ink in which the words is printed. The two conditions of this task are a congruent words condition, and an incongruent words condition. The congruent words condition has the color matching the word of that color (<a href='https://en.wikipedia.org/wiki/Stroop_effect'>see wiki for example</a>). The incongruent words are displayed with the colors not matching the word, (<a href='https://en.wikipedia.org/wiki/Stroop_effect'>see wiki for example</a>). Each case is measured by the time it takes to read the word group. The groups are then compared.
 
 #### Interference
